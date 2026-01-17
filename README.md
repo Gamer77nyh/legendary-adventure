@@ -175,6 +175,10 @@ hackai status
 - Only use on networks and systems you own or have explicit permission to test
 - Unauthorized access to computer systems is illegal
 - Use responsibly and ethically
+- Lab-only use
+- Owner-permission testing only
+- Educational & defensive focus
+- Logging + user accountability
 - Follow all applicable laws and regulations
 - The developers are not responsible for misuse
 
